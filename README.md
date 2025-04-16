@@ -3,7 +3,7 @@
 
 ### 사용방법
 1. 대시보드 파일 다운로드
-- Detailed%20Usage%20Dashboard%20V5.lvdash.json
+- Detailed Usage Dashboard V5.lvdash.json
 
 2. 워크스페이스에 대시보드 가져오기
 - 나의 데이터브릭스 워크스페이스 --> 대시보드 --> 대시보드 만들기 --> 파일에서 대시보드 가져오기 에서 위 다운로드 받은 파일 선택
